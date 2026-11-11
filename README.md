@@ -1,14 +1,52 @@
-#💫About Me:
-Act as a world-class GitHub Profile README engineer, animated SVG specialist, creative frontend designer, and GitHub branding expert.<br><br>Create an EXTREMELY UNIQUE, FULLY ANIMATED, futuristic GitHub Profile README for:<br><br>Username: thanu29 GitHub: https://github.com/thanu29<br><br>IMPORTANT: I WANT ANIMATION THROUGHOUT THE ENTIRE README. Every section must have its own animated visual element. Do not create a boring static README.<br><br>🔥 VISUAL DESIGN:<br><br>Black and deep-space background aesthetic.<br>Neon purple, electric blue, cyan and magenta colors.<br>Futuristic cyberpunk developer theme.<br>Animated gradients.<br>Glowing neon borders.<br>Animated SVG illustrations.<br>Smooth scrolling-style visual flow.<br>Premium glassmorphism-inspired visuals.<br>Beautiful spacing and professional typography.<br><br>🚀 ANIMATION REQUIREMENTS — EVERY SECTION:<br><br>ANIMATED HERO<br>Full-width animated developer banner.<br>Animated neon background.<br>Typing SVG with multiple changing developer taglines.<br>Animated waving hand.<br>Floating particles and futuristic visual effects.<br>Animated glowing username: THANU29.<br>ANIMATED ABOUT ME<br>Animated section heading.<br>Typing text animation.<br>Animated developer illustration.<br>Scrolling-style text or GIF.<br>Animated divider.<br>ANIMATED TECH STACK<br>Animated technology icons.<br>Glowing hover-style icon presentation where supported.<br>Skill icons with individual visual effects.<br>Organize languages, frameworks, tools and databases.<br>Include only technologies verified from my repositories.<br>ANIMATED PROJECT SHOWCASE<br>Beautiful animated project cards.<br>Glowing borders and neon effects.<br>Animated project titles and descriptions.<br>Include actual repository links.<br>Highlight my best repositories.<br>Use real project information, never invented descriptions.<br>ANIMATED GITHUB STATISTICS<br>Animated GitHub stats cards.<br>Animated streak statistics.<br>Animated language distribution chart.<br>Animated contribution graph.<br>Neon-colored statistics theme.<br>ANIMATED CONTRIBUTION SECTION<br>GitHub contribution snake animation.<br>Light and dark compatible contribution visuals where available.<br>Animated contribution graph.<br>Animated activity indicator.<br>ANIMATED CURRENT FOCUS<br>Typing animation.<br>Animated learning indicators.<br>Futuristic progress visuals.<br>Only show verified information.<br>ANIMATED CONNECT SECTION<br>Glowing social media icons.<br>Animated GitHub button-style links.<br>Neon hover effects where supported.<br>Smooth animated visual separators.<br>ANIMATED FOOTER<br>Animated thank-you message.<br>Typing developer quote.<br>Animated visitor counter.<br>Glowing neon divider.<br>Animated closing banner.<br>SPECIAL ANIMATION EFFECTS<br>Animated SVG section dividers.<br>Multiple typing SVG animations.<br>CSS-style animations where GitHub supports them.<br>GIF animations.<br>SVG animations.<br>Scrolling marquee effects where supported.<br>Animated badges.<br>Neon glowing effects.<br>Carefully coordinated animation timing.<br><br>TECHNICAL RULES:<br><br>Generate a complete README.md.<br>Use GitHub-compatible Markdown and SVG.<br>Use readme-typing-svg, skillicons.dev, GitHub stats services and verified animation sources where appropriate.<br>Use a GitHub contribution snake only with a correctly configured GitHub Actions workflow.<br>Never assume GitHub README supports arbitrary HTML/CSS/JavaScript.<br>Never use broken image URLs.<br>Make all external image links valid and explain any setup needed.<br>Ensure mobile-friendly layout.<br>Do not invent skills, achievements or project details.<br>Analyze https://github.com/thanu29 and its public repositories before designing.<br><br>FINAL EXPECTATION:<br><br>I want a README that looks like an animated futuristic developer website.<br><br>EVERY SECTION MUST HAVE AN ANIMATED ELEMENT. EVERY HEADING SHOULD HAVE A CREATIVE VISUAL TREATMENT. EVERY MAJOR SECTION SHOULD HAVE AN ANIMATED DIVIDER OR VISUAL. NO BORING STATIC TEMPLATE. NO GENERIC GITHUB PROFILE DESIGN.<br><br>Create something exceptionally creative, premium, visually rich and recognizable as the personal developer identity of THANU29.<br><br>OUTPUT: Provide the entire ready-to-use README.md code, all required asset links, and any GitHub Actions YAML files needed for animations.
 
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=thanu29&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=thanu29&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=thanu29&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050014,50:6A00F5,100:00D9FF&height=220&section=header&text=THANU29&fontSize=75&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=CODE%20%7C%20CREATE%20%7C%20INNOVATE&descAlignY=60&descSize=18"/>
 
-[![](https://komarev.com/ghpvc/?username=thanu29&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Universe;Building+with+Code;Learning+Something+New+Every+Day;THANU29+%7C+Developer" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:6A00F5&height=3"/>
+
+<div align="center">
+
+## ⚡ TECH UNIVERSE ⚡
+
+<img src="https://skillicons.dev/icons?i=c,aws,oracle,git,github,python,tensorflow,pytorch&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,docker,vscode&theme=dark" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6A00F5,100:00D9FF&height=3"/>
+
+<div align="center">
+
+## 🚀 GITHUB PERFORMANCE 🚀
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thanu29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050014"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanu29&layout=compact&theme=tokyonight&hide_border=true&bg_color=050014"/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=thanu29&theme=tokyonight&hide_border=true&background=050014"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:6A00F5&height=3"/>
+
+<div align="center">
+
+## 🐍 CONTRIBUTION SNAKE 🐍
+
+![Snake animation](https://raw.githubusercontent.com/thanu29/thanu29/output/github-snake-dark.svg)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F5,100:00D9FF&height=120&section=footer&animation=twinkling"/>
+
+</div>
